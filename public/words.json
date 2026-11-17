@@ -1,0 +1,6362 @@
+[
+ {
+  "id": "pf-001",
+  "term": "Variable",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-002",
+  "term": "Function",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-003",
+  "term": "Loop",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-004",
+  "term": "Conditional Statement",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-005",
+  "term": "Recursion",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-006",
+  "term": "Pointer",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-007",
+  "term": "Reference",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-008",
+  "term": "Data Type",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-009",
+  "term": "Exception",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-010",
+  "term": "Compiler",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-011",
+  "term": "Interpreter",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-012",
+  "term": "Syntax",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-013",
+  "term": "Constant",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-014",
+  "term": "Operator",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-015",
+  "term": "String",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-016",
+  "term": "Integer",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-017",
+  "term": "Boolean",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-018",
+  "term": "Floating Point",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-019",
+  "term": "Parameter",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-020",
+  "term": "Argument",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-021",
+  "term": "Return Value",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-022",
+  "term": "Scope",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-023",
+  "term": "Closure",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-024",
+  "term": "Callback",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-025",
+  "term": "Lambda",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-026",
+  "term": "Iterator",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-027",
+  "term": "Generator",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-028",
+  "term": "Algorithm",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-029",
+  "term": "Comment",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-030",
+  "term": "Bug",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-031",
+  "term": "Syntax Error",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-032",
+  "term": "Runtime Error",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-033",
+  "term": "Stack Overflow",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-034",
+  "term": "Garbage Collection",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-035",
+  "term": "Memory Leak",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-036",
+  "term": "Null",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-037",
+  "term": "Undefined",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-038",
+  "term": "Type Casting",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-039",
+  "term": "Type Inference",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-040",
+  "term": "Static Typing",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-041",
+  "term": "Dynamic Typing",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-042",
+  "term": "Bytecode",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-043",
+  "term": "Source Code",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-044",
+  "term": "Machine Code",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-045",
+  "term": "Assembly Language",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-046",
+  "term": "High-Level Language",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-047",
+  "term": "Integer Overflow",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-048",
+  "term": "Bitwise Operator",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-049",
+  "term": "Infinite Loop",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-050",
+  "term": "Break Statement",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-051",
+  "term": "Switch Statement",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-052",
+  "term": "Ternary Operator",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-053",
+  "term": "Hoisting",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-054",
+  "term": "Immutability",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-055",
+  "term": "Side Effect",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-056",
+  "term": "Pure Function",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-057",
+  "term": "Higher-Order Function",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-058",
+  "term": "Global Variable",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-059",
+  "term": "Local Variable",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-060",
+  "term": "Naming Convention",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-061",
+  "term": "Boilerplate",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-062",
+  "term": "Library",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-063",
+  "term": "Framework",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-064",
+  "term": "Package Manager",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-065",
+  "term": "IDE",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-066",
+  "term": "Linter",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-067",
+  "term": "Debugger",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-068",
+  "term": "Breakpoint",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-069",
+  "term": "Command Line",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-070",
+  "term": "Regular Expression",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-071",
+  "term": "Hexadecimal",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-072",
+  "term": "Binary Number",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-073",
+  "term": "Endianness",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-074",
+  "term": "Unicode",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-075",
+  "term": "ASCII",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-076",
+  "term": "Off-by-One Error",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-077",
+  "term": "Magic Number",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-078",
+  "term": "Spaghetti Code",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-079",
+  "term": "Pseudocode",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-080",
+  "term": "Idempotence",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-081",
+  "term": "Currying",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-082",
+  "term": "Memoization",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-083",
+  "term": "Tail Recursion",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-084",
+  "term": "Base Case",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-085",
+  "term": "Call Stack",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-086",
+  "term": "Short-Circuit Evaluation",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-087",
+  "term": "Default Parameter",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-088",
+  "term": "Variadic Function",
+  "category": "Programming Fundamentals",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-089",
+  "term": "Compilation",
+  "category": "Programming Fundamentals",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "pf-090",
+  "term": "Syntactic Sugar",
+  "category": "Programming Fundamentals",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-001",
+  "term": "Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-002",
+  "term": "Object",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-003",
+  "term": "Inheritance",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-004",
+  "term": "Polymorphism",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-005",
+  "term": "Encapsulation",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-006",
+  "term": "Abstraction",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-007",
+  "term": "Constructor",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-008",
+  "term": "Destructor",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-009",
+  "term": "Interface",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-010",
+  "term": "Method Overloading",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-011",
+  "term": "Method Overriding",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-012",
+  "term": "Abstract Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-013",
+  "term": "Getter and Setter",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-014",
+  "term": "Access Modifier",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-015",
+  "term": "Private Member",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-016",
+  "term": "Public Method",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-017",
+  "term": "Protected Member",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-018",
+  "term": "Static Method",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-019",
+  "term": "Instance",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-020",
+  "term": "Superclass",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-021",
+  "term": "Subclass",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-022",
+  "term": "Multiple Inheritance",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-023",
+  "term": "Composition",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-024",
+  "term": "Aggregation",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-025",
+  "term": "Coupling",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-026",
+  "term": "Cohesion",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-027",
+  "term": "Singleton",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-028",
+  "term": "Factory Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-029",
+  "term": "Observer Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-030",
+  "term": "Strategy Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-031",
+  "term": "Decorator Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-032",
+  "term": "Adapter Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-033",
+  "term": "Builder Pattern",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-034",
+  "term": "Prototype",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-035",
+  "term": "Mixin",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-036",
+  "term": "Virtual Method",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-037",
+  "term": "Dynamic Dispatch",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-038",
+  "term": "Duck Typing",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-039",
+  "term": "Generics",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-040",
+  "term": "Method Chaining",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-041",
+  "term": "Fluent Interface",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-042",
+  "term": "this Keyword",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-043",
+  "term": "Self Reference",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-044",
+  "term": "Object Literal",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-045",
+  "term": "Property",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-046",
+  "term": "Attribute",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-047",
+  "term": "Method",
+  "category": "Object-Oriented Programming",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-048",
+  "term": "Namespace",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-049",
+  "term": "Package",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-050",
+  "term": "Module",
+  "category": "Object-Oriented Programming",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-051",
+  "term": "SOLID Principles",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-052",
+  "term": "Single Responsibility Principle",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-053",
+  "term": "Open-Closed Principle",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-054",
+  "term": "Liskov Substitution",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-055",
+  "term": "Dependency Inversion",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-056",
+  "term": "Law of Demeter",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-057",
+  "term": "Anonymous Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-058",
+  "term": "Inner Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-059",
+  "term": "Final Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "oop-060",
+  "term": "Sealed Class",
+  "category": "Object-Oriented Programming",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-001",
+  "term": "Array",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-002",
+  "term": "Linked List",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-003",
+  "term": "Stack",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-004",
+  "term": "Queue",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-005",
+  "term": "Hash Table",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-006",
+  "term": "Binary Tree",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-007",
+  "term": "Graph",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-008",
+  "term": "Heap",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-009",
+  "term": "Trie",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-010",
+  "term": "Hash Collision",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-011",
+  "term": "Doubly Linked List",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-012",
+  "term": "Circular Buffer",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-013",
+  "term": "Priority Queue",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-014",
+  "term": "Deque",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-015",
+  "term": "Hash Map",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-016",
+  "term": "Hash Set",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-017",
+  "term": "Set",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-018",
+  "term": "Dictionary",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-019",
+  "term": "Tuple",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-020",
+  "term": "List",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-021",
+  "term": "Binary Search Tree",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-022",
+  "term": "AVL Tree",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-023",
+  "term": "Red-Black Tree",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-024",
+  "term": "B-Tree",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-025",
+  "term": "Segment Tree",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-026",
+  "term": "Fenwick Tree",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-027",
+  "term": "Disjoint Set",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-028",
+  "term": "Union-Find",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-029",
+  "term": "Bloom Filter",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-030",
+  "term": "Skip List",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-031",
+  "term": "Adjacency List",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-032",
+  "term": "Adjacency Matrix",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-033",
+  "term": "Directed Graph",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-034",
+  "term": "Undirected Graph",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-035",
+  "term": "Weighted Graph",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-036",
+  "term": "Spanning Tree",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-037",
+  "term": "Cycle",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-038",
+  "term": "Node",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-039",
+  "term": "Edge",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-040",
+  "term": "Vertex",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-041",
+  "term": "Root Node",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-042",
+  "term": "Leaf Node",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-043",
+  "term": "Tree Height",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-044",
+  "term": "Subtree",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-045",
+  "term": "Parent Node",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-046",
+  "term": "Child Node",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-047",
+  "term": "Min Heap",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-048",
+  "term": "Max Heap",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-049",
+  "term": "LIFO",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-050",
+  "term": "FIFO",
+  "category": "Data Structures",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-051",
+  "term": "Dynamic Array",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-052",
+  "term": "Static Array",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-053",
+  "term": "Multidimensional Array",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-054",
+  "term": "Sparse Matrix",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-055",
+  "term": "Matrix",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-056",
+  "term": "Vector",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-057",
+  "term": "Bit Array",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-058",
+  "term": "Linked Queue",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-059",
+  "term": "Hash Function",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-060",
+  "term": "Load Factor",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-061",
+  "term": "Open Addressing",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-062",
+  "term": "Chaining",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-063",
+  "term": "Tree Traversal",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-064",
+  "term": "In-Order Traversal",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-065",
+  "term": "Pre-Order Traversal",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-066",
+  "term": "Post-Order Traversal",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-067",
+  "term": "Level-Order Traversal",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-068",
+  "term": "Balanced Tree",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-069",
+  "term": "Binary Heap",
+  "category": "Data Structures",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "ds-070",
+  "term": "Cache Eviction",
+  "category": "Data Structures",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-001",
+  "term": "Binary Search",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-002",
+  "term": "Sorting",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-003",
+  "term": "Breadth-First Search",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-004",
+  "term": "Depth-First Search",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-005",
+  "term": "Dynamic Programming",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-006",
+  "term": "Greedy Algorithm",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-007",
+  "term": "Backtracking",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-008",
+  "term": "Big O Notation",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-009",
+  "term": "Time Complexity",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-010",
+  "term": "Space Complexity",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-011",
+  "term": "Bubble Sort",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-012",
+  "term": "Quick Sort",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-013",
+  "term": "Merge Sort",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-014",
+  "term": "Insertion Sort",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-015",
+  "term": "Selection Sort",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-016",
+  "term": "Heap Sort",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-017",
+  "term": "Counting Sort",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-018",
+  "term": "Radix Sort",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-019",
+  "term": "Linear Search",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-020",
+  "term": "Divide and Conquer",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-021",
+  "term": "Dijkstra Algorithm",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-022",
+  "term": "Bellman-Ford",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-023",
+  "term": "Floyd-Warshall",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-024",
+  "term": "A* Search",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-025",
+  "term": "Kruskal Algorithm",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-026",
+  "term": "Prim Algorithm",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-027",
+  "term": "Topological Sort",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-028",
+  "term": "Binary Exponentiation",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-029",
+  "term": "Sieve of Eratosthenes",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-030",
+  "term": "Euclidean Algorithm",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-031",
+  "term": "Fibonacci Sequence",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-032",
+  "term": "Factorial",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-033",
+  "term": "Prime Number",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-034",
+  "term": "Permutation",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-035",
+  "term": "Combination",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-036",
+  "term": "Brute Force",
+  "category": "Algorithms",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-037",
+  "term": "Heuristic",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-038",
+  "term": "Pivot",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-039",
+  "term": "Two Pointers",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-040",
+  "term": "Sliding Window",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-041",
+  "term": "Memoization Table",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-042",
+  "term": "Knapsack Problem",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-043",
+  "term": "Traveling Salesman",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-044",
+  "term": "NP-Complete",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-045",
+  "term": "P vs NP",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-046",
+  "term": "Halting Problem",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-047",
+  "term": "Amortized Analysis",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-048",
+  "term": "Worst Case",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-049",
+  "term": "Best Case",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-050",
+  "term": "Average Case",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-051",
+  "term": "Constant Time",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-052",
+  "term": "Linear Time",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-053",
+  "term": "Logarithmic Time",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-054",
+  "term": "Exponential Time",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-055",
+  "term": "Polynomial Time",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-056",
+  "term": "Stable Sort",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-057",
+  "term": "In-Place Algorithm",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-058",
+  "term": "Randomized Algorithm",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-059",
+  "term": "Monte Carlo",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-060",
+  "term": "Hashing Algorithm",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-061",
+  "term": "Longest Common Subsequence",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-062",
+  "term": "Edit Distance",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-063",
+  "term": "Shortest Path",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-064",
+  "term": "Minimum Spanning Tree",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-065",
+  "term": "Cycle Detection",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-066",
+  "term": "Binary Tree Inversion",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-067",
+  "term": "Lowest Common Ancestor",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-068",
+  "term": "Flood Fill",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-069",
+  "term": "Game of Life",
+  "category": "Algorithms",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "alg-070",
+  "term": "Maze Solving",
+  "category": "Algorithms",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-001",
+  "term": "Primary Key",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-002",
+  "term": "Foreign Key",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-003",
+  "term": "Index",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-004",
+  "term": "Join",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-005",
+  "term": "Transaction",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-006",
+  "term": "Normalization",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-007",
+  "term": "Query",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-008",
+  "term": "View",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-009",
+  "term": "Stored Procedure",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-010",
+  "term": "ACID",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-011",
+  "term": "Database",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-012",
+  "term": "Table",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-013",
+  "term": "Row",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-014",
+  "term": "Column",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-015",
+  "term": "Schema",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-016",
+  "term": "SELECT Statement",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-017",
+  "term": "INSERT Statement",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-018",
+  "term": "UPDATE Statement",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-019",
+  "term": "DELETE Statement",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-020",
+  "term": "WHERE Clause",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-021",
+  "term": "GROUP BY",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-022",
+  "term": "ORDER BY",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-023",
+  "term": "HAVING Clause",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-024",
+  "term": "Inner Join",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-025",
+  "term": "Left Join",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-026",
+  "term": "Outer Join",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-027",
+  "term": "Cross Join",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-028",
+  "term": "Self Join",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-029",
+  "term": "Subquery",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-030",
+  "term": "Aggregate Function",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-031",
+  "term": "Trigger",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-032",
+  "term": "Cursor",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-033",
+  "term": "Constraint",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-034",
+  "term": "Unique Constraint",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-035",
+  "term": "Check Constraint",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-036",
+  "term": "Composite Key",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-037",
+  "term": "Candidate Key",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-038",
+  "term": "Surrogate Key",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-039",
+  "term": "Denormalization",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-040",
+  "term": "Relational Database",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-041",
+  "term": "NoSQL",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-042",
+  "term": "Document Database",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-043",
+  "term": "Key-Value Store",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-044",
+  "term": "Graph Database",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-045",
+  "term": "Column-Family Store",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-046",
+  "term": "Time Series Database",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-047",
+  "term": "MongoDB",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-048",
+  "term": "PostgreSQL",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-049",
+  "term": "MySQL",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-050",
+  "term": "SQLite",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-051",
+  "term": "Redis",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-052",
+  "term": "Elasticsearch",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-053",
+  "term": "Cassandra",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-054",
+  "term": "Commit",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-055",
+  "term": "Rollback",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-056",
+  "term": "Deadlock in Database",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-057",
+  "term": "Isolation Level",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-058",
+  "term": "Dirty Read",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-059",
+  "term": "Phantom Read",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-060",
+  "term": "CAP Theorem",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-061",
+  "term": "Sharding",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-062",
+  "term": "Replication",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-063",
+  "term": "Database Migration",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-064",
+  "term": "ORM",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-065",
+  "term": "SQL Injection",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-066",
+  "term": "Full-Text Search",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-067",
+  "term": "Query Optimizer",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-068",
+  "term": "Execution Plan",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-069",
+  "term": "Clustered Index",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-070",
+  "term": "Data Warehouse",
+  "category": "Databases and SQL",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-071",
+  "term": "ETL",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-072",
+  "term": "Data Lake",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-073",
+  "term": "Backup",
+  "category": "Databases and SQL",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-074",
+  "term": "Connection Pool",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "db-075",
+  "term": "Eventual Consistency",
+  "category": "Databases and SQL",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-001",
+  "term": "HTML",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-002",
+  "term": "CSS",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-003",
+  "term": "JavaScript",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-004",
+  "term": "DOM",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-005",
+  "term": "API",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-006",
+  "term": "REST",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-007",
+  "term": "HTTP",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-008",
+  "term": "Cookie",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-009",
+  "term": "Session",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-010",
+  "term": "Responsive Design",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-011",
+  "term": "Browser",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-012",
+  "term": "URL",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-013",
+  "term": "Domain Name",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-014",
+  "term": "DNS",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-015",
+  "term": "HTTPS",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-016",
+  "term": "SSL Certificate",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-017",
+  "term": "Web Server",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-018",
+  "term": "Frontend",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-019",
+  "term": "Backend",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-020",
+  "term": "Full Stack",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-021",
+  "term": "JSON",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-022",
+  "term": "XML",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-023",
+  "term": "AJAX",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-024",
+  "term": "Fetch API",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-025",
+  "term": "WebSocket",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-026",
+  "term": "GraphQL",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-027",
+  "term": "Query String",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-028",
+  "term": "Request",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-029",
+  "term": "Response",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-030",
+  "term": "Status Code",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-031",
+  "term": "404 Error",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-032",
+  "term": "500 Error",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-033",
+  "term": "GET Request",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-034",
+  "term": "POST Request",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-035",
+  "term": "PUT Request",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-036",
+  "term": "DELETE Request",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-037",
+  "term": "Header",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-038",
+  "term": "Payload",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-039",
+  "term": "CORS",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-040",
+  "term": "CSRF",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-041",
+  "term": "XSS",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-042",
+  "term": "JWT",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-043",
+  "term": "OAuth",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-044",
+  "term": "Local Storage",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-045",
+  "term": "Session Storage",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-046",
+  "term": "Web Worker",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-047",
+  "term": "Service Worker",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-048",
+  "term": "Progressive Web App",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-049",
+  "term": "Single Page Application",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-050",
+  "term": "Server-Side Rendering",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-051",
+  "term": "Flexbox",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-052",
+  "term": "CSS Grid",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-053",
+  "term": "Media Query",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-054",
+  "term": "Pseudo-Class",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-055",
+  "term": "CSS Selector",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-056",
+  "term": "Box Model",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-057",
+  "term": "Viewport",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-058",
+  "term": "Z-Index",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-059",
+  "term": "Event Listener",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-060",
+  "term": "Event Bubbling",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-061",
+  "term": "Virtual DOM",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-062",
+  "term": "Component",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-063",
+  "term": "Props",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-064",
+  "term": "State",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-065",
+  "term": "Hook",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-066",
+  "term": "Webpack",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-067",
+  "term": "Bundler",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-068",
+  "term": "Minification",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-069",
+  "term": "Transpiler",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-070",
+  "term": "SEO",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-071",
+  "term": "Lazy Loading",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-072",
+  "term": "CDN",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-073",
+  "term": "Favicon",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-074",
+  "term": "Hyperlink",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-075",
+  "term": "Form",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-076",
+  "term": "Landing Page",
+  "category": "Web Development",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-077",
+  "term": "Web Scraping",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-078",
+  "term": "Web Crawler",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-079",
+  "term": "Webhook",
+  "category": "Web Development",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "web-080",
+  "term": "Rate Limiting",
+  "category": "Web Development",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-001",
+  "term": "Debugging",
+  "category": "Software Engineering",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-002",
+  "term": "Refactoring",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-003",
+  "term": "Unit Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-004",
+  "term": "Integration Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-005",
+  "term": "Code Review",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-006",
+  "term": "Technical Debt",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-007",
+  "term": "Design Pattern",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-008",
+  "term": "Dependency Injection",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-009",
+  "term": "Version Control",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-010",
+  "term": "Continuous Integration",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-011",
+  "term": "Git",
+  "category": "Software Engineering",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-012",
+  "term": "Commit Message",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-013",
+  "term": "Branch",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-014",
+  "term": "Merge",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-015",
+  "term": "Merge Conflict",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-016",
+  "term": "Pull Request",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-017",
+  "term": "Fork",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-018",
+  "term": "Clone",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-019",
+  "term": "Rebase",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-020",
+  "term": "Cherry-Pick",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-021",
+  "term": "Repository",
+  "category": "Software Engineering",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-022",
+  "term": "Tag",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-023",
+  "term": "Stash",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-024",
+  "term": "Gitignore",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-025",
+  "term": "GitHub",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-026",
+  "term": "Open Source",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-027",
+  "term": "License",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-028",
+  "term": "Agile",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-029",
+  "term": "Scrum",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-030",
+  "term": "Kanban",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-031",
+  "term": "Sprint",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-032",
+  "term": "Backlog",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-033",
+  "term": "User Story",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-034",
+  "term": "Daily Standup",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-035",
+  "term": "Retrospective",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-036",
+  "term": "Product Owner",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-037",
+  "term": "Scrum Master",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-038",
+  "term": "Waterfall",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-039",
+  "term": "Requirements",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-040",
+  "term": "Specification",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-041",
+  "term": "Test-Driven Development",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-042",
+  "term": "Mocking",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-043",
+  "term": "Test Coverage",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-044",
+  "term": "End-to-End Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-045",
+  "term": "Regression Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-046",
+  "term": "Smoke Test",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-047",
+  "term": "Load Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-048",
+  "term": "Stress Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-049",
+  "term": "Acceptance Testing",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-050",
+  "term": "Code Smell",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-051",
+  "term": "Legacy Code",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-052",
+  "term": "Hotfix",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-053",
+  "term": "Release",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-054",
+  "term": "Versioning",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-055",
+  "term": "Semantic Versioning",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-056",
+  "term": "Changelog",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-057",
+  "term": "Documentation",
+  "category": "Software Engineering",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-058",
+  "term": "README",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-059",
+  "term": "Code Style",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-060",
+  "term": "Pair Programming",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-061",
+  "term": "Mob Programming",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-062",
+  "term": "Rubber Duck Debugging",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-063",
+  "term": "Proof of Concept",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-064",
+  "term": "Prototype Development",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-065",
+  "term": "MVP",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-066",
+  "term": "Bug Tracker",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-067",
+  "term": "Issue",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-068",
+  "term": "Feature Flag",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-069",
+  "term": "Code Freeze",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-070",
+  "term": "Static Analysis",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-071",
+  "term": "Software Architecture",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-072",
+  "term": "Software Lifecycle",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-073",
+  "term": "Maintainability",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-074",
+  "term": "Readability",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-075",
+  "term": "Reusability",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-076",
+  "term": "DRY Principle",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-077",
+  "term": "KISS Principle",
+  "category": "Software Engineering",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-078",
+  "term": "YAGNI",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-079",
+  "term": "Premature Optimization",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "se-080",
+  "term": "Bus Factor",
+  "category": "Software Engineering",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-001",
+  "term": "Docker",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-002",
+  "term": "Container",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-003",
+  "term": "Kubernetes",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-004",
+  "term": "CI/CD",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-005",
+  "term": "Deployment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-006",
+  "term": "Pipeline",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-007",
+  "term": "Server",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-008",
+  "term": "Load Balancer",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-009",
+  "term": "Virtual Machine",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-010",
+  "term": "Cloud Computing",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-011",
+  "term": "Dockerfile",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-012",
+  "term": "Docker Image",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-013",
+  "term": "Docker Compose",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-014",
+  "term": "Pod",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-015",
+  "term": "Cluster",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-016",
+  "term": "Node Pool",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-017",
+  "term": "Helm Chart",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-018",
+  "term": "Ingress",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-019",
+  "term": "Namespace in Kubernetes",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-020",
+  "term": "Terraform",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-021",
+  "term": "Ansible",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-022",
+  "term": "Infrastructure as Code",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-023",
+  "term": "Jenkins",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-024",
+  "term": "GitHub Actions",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-025",
+  "term": "Build Artifact",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-026",
+  "term": "Staging Environment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-027",
+  "term": "Production Environment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-028",
+  "term": "Development Environment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-029",
+  "term": "Blue-Green Deployment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-030",
+  "term": "Canary Release",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-031",
+  "term": "Rollback Deployment",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-032",
+  "term": "Monitoring",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-033",
+  "term": "Logging",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-034",
+  "term": "Alerting",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-035",
+  "term": "Metrics",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-036",
+  "term": "Tracing",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-037",
+  "term": "Prometheus",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-038",
+  "term": "Grafana",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-039",
+  "term": "Uptime",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-040",
+  "term": "Downtime",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-041",
+  "term": "SLA",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-042",
+  "term": "Incident",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-043",
+  "term": "Postmortem",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-044",
+  "term": "On-Call",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-045",
+  "term": "Reverse Proxy",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-046",
+  "term": "Nginx",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-047",
+  "term": "Apache",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-048",
+  "term": "Firewall",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-049",
+  "term": "VPN",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-050",
+  "term": "SSH",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-051",
+  "term": "Bash",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-052",
+  "term": "Shell Script",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-053",
+  "term": "Cron Job",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-054",
+  "term": "Environment Variable",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-055",
+  "term": "Secret Management",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-056",
+  "term": "Linux",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-057",
+  "term": "Package Registry",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-058",
+  "term": "Serverless",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-059",
+  "term": "AWS",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-060",
+  "term": "Azure",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-061",
+  "term": "Google Cloud",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-062",
+  "term": "Edge Computing",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-063",
+  "term": "Auto Scaling",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-064",
+  "term": "Horizontal Scaling",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-065",
+  "term": "Vertical Scaling",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-066",
+  "term": "Health Check",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-067",
+  "term": "Container Registry",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-068",
+  "term": "Hypervisor",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-069",
+  "term": "Bare Metal",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "dev-070",
+  "term": "DevSecOps",
+  "category": "DevOps and Infrastructure",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-001",
+  "term": "Process",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-002",
+  "term": "Thread",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-003",
+  "term": "Deadlock",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-004",
+  "term": "Memory Allocation",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-005",
+  "term": "Stack Frame",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-006",
+  "term": "Heap Memory",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-007",
+  "term": "System Call",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-008",
+  "term": "Register",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-009",
+  "term": "Interrupt",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-010",
+  "term": "Race Condition",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-011",
+  "term": "Kernel",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-012",
+  "term": "Operating System",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-013",
+  "term": "Scheduler",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-014",
+  "term": "Context Switch",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-015",
+  "term": "Virtual Memory",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-016",
+  "term": "Paging",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-017",
+  "term": "Page Fault",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-018",
+  "term": "Swap Space",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-019",
+  "term": "File System",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-020",
+  "term": "Inode",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-021",
+  "term": "Mutex",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-022",
+  "term": "Semaphore",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-023",
+  "term": "Spinlock",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-024",
+  "term": "Critical Section",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-025",
+  "term": "Starvation",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-026",
+  "term": "Multithreading",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-027",
+  "term": "Multiprocessing",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-028",
+  "term": "Concurrency",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-029",
+  "term": "Parallelism",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-030",
+  "term": "Atomic Operation",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-031",
+  "term": "Zombie Process",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-032",
+  "term": "Daemon",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-033",
+  "term": "Cache Memory",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-034",
+  "term": "CPU",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-035",
+  "term": "RAM",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-036",
+  "term": "GPU",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-037",
+  "term": "Motherboard",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-038",
+  "term": "Bootloader",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-039",
+  "term": "BIOS",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-040",
+  "term": "Driver",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-041",
+  "term": "Buffer",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-042",
+  "term": "Buffer Overflow",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-043",
+  "term": "Segmentation Fault",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-044",
+  "term": "Memory Address",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-045",
+  "term": "Little Endian",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-046",
+  "term": "Instruction Set",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-047",
+  "term": "Assembler",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-048",
+  "term": "Linker",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-049",
+  "term": "Loader",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-050",
+  "term": "Shared Library",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-051",
+  "term": "Pipe",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-052",
+  "term": "Socket",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-053",
+  "term": "IPC",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-054",
+  "term": "Signal",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-055",
+  "term": "File Descriptor",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-056",
+  "term": "Root Access",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-057",
+  "term": "Sandbox",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-058",
+  "term": "Virtualization",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-059",
+  "term": "Firmware",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "os-060",
+  "term": "Thread Pool",
+  "category": "Operating Systems and Low-Level",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-001",
+  "term": "Microservices",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-002",
+  "term": "Monolith",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-003",
+  "term": "Scalability",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-004",
+  "term": "Latency",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-005",
+  "term": "Caching",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-006",
+  "term": "Authentication",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-007",
+  "term": "Authorization",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-008",
+  "term": "Encryption",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-009",
+  "term": "Middleware",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-010",
+  "term": "Event-Driven Architecture",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-011",
+  "term": "Throughput",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-012",
+  "term": "Bandwidth",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-013",
+  "term": "Availability",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-014",
+  "term": "Reliability",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-015",
+  "term": "Fault Tolerance",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-016",
+  "term": "Redundancy",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-017",
+  "term": "Failover",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-018",
+  "term": "Single Point of Failure",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-019",
+  "term": "Message Queue",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-020",
+  "term": "Pub/Sub",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-021",
+  "term": "Kafka",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-022",
+  "term": "RabbitMQ",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-023",
+  "term": "API Gateway",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-024",
+  "term": "Service Mesh",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-025",
+  "term": "Service Discovery",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-026",
+  "term": "Circuit Breaker",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-027",
+  "term": "Idempotent Request",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-028",
+  "term": "Clean Architecture",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-029",
+  "term": "Hexagonal Architecture",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-030",
+  "term": "Domain-Driven Design",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-031",
+  "term": "CQRS",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-032",
+  "term": "Event Sourcing",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-033",
+  "term": "Saga Pattern",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-034",
+  "term": "Distributed System",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-035",
+  "term": "Consensus Algorithm",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-036",
+  "term": "Leader Election",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-037",
+  "term": "Hashing Passwords",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-038",
+  "term": "Salt",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-039",
+  "term": "Public Key",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-040",
+  "term": "Private Key",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-041",
+  "term": "Digital Signature",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-042",
+  "term": "Two-Factor Authentication",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-043",
+  "term": "Phishing",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-044",
+  "term": "Malware",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-045",
+  "term": "Ransomware",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-046",
+  "term": "Penetration Testing",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-047",
+  "term": "Vulnerability",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-048",
+  "term": "Zero-Day",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-049",
+  "term": "Brute Force Attack",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-050",
+  "term": "Man-in-the-Middle",
+  "category": "Architecture and General IT",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-051",
+  "term": "Big Data",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-052",
+  "term": "Machine Learning",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-053",
+  "term": "Neural Network",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-054",
+  "term": "Artificial Intelligence",
+  "category": "Architecture and General IT",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-055",
+  "term": "Blockchain",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-056",
+  "term": "Smart Contract",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-057",
+  "term": "Internet of Things",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-058",
+  "term": "Open API",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-059",
+  "term": "SDK",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "arch-060",
+  "term": "Technical Specification",
+  "category": "Architecture and General IT",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-001",
+  "term": "Template in C++",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-002",
+  "term": "STL",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-003",
+  "term": "Pointer Arithmetic",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-004",
+  "term": "Smart Pointer",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-005",
+  "term": "Header File",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-006",
+  "term": "Namespace std",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-007",
+  "term": "Operator Overloading",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-008",
+  "term": "Destructor in C++",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-009",
+  "term": "Memory Management",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-010",
+  "term": "Undefined Behavior",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-011",
+  "term": "List Comprehension",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-012",
+  "term": "Decorator in Python",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-013",
+  "term": "Virtualenv",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-014",
+  "term": "pip",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-015",
+  "term": "PEP 8",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-016",
+  "term": "Indentation",
+  "category": "Programming Languages",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-017",
+  "term": "Dunder Method",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-018",
+  "term": "Global Interpreter Lock",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-019",
+  "term": "Pandas",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-020",
+  "term": "NumPy",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-021",
+  "term": "Jupyter Notebook",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-022",
+  "term": "Django",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-023",
+  "term": "Flask",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-024",
+  "term": "JVM",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-025",
+  "term": "JDK",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-026",
+  "term": "Maven",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-027",
+  "term": "Gradle",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-028",
+  "term": "Spring Framework",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-029",
+  "term": "Annotation",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-030",
+  "term": "Servlet",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-031",
+  "term": "Checked Exception",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-032",
+  "term": "Garbage Collector in Java",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-033",
+  "term": "Promise",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-034",
+  "term": "Async/Await",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-035",
+  "term": "Event Loop",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-036",
+  "term": "npm",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-037",
+  "term": "TypeScript",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-038",
+  "term": "React",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-039",
+  "term": "Node.js",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-040",
+  "term": "Strict Mode",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-041",
+  "term": "Arrow Function",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-042",
+  "term": "Template Literal",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-043",
+  "term": "Spread Operator",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-044",
+  "term": "Destructuring",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-045",
+  "term": "Prototype Chain",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-046",
+  "term": "Truthy and Falsy",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-047",
+  "term": "NaN",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-048",
+  "term": "LINQ",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-049",
+  "term": ".NET",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-050",
+  "term": "NuGet",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-051",
+  "term": "Delegate",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-052",
+  "term": "Nullable Type",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-053",
+  "term": "Struct",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-054",
+  "term": "Enum",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-055",
+  "term": "Union Type",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-056",
+  "term": "Rust",
+  "category": "Programming Languages",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-057",
+  "term": "Go Language",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-058",
+  "term": "Kotlin",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-059",
+  "term": "Swift",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-060",
+  "term": "PHP",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-061",
+  "term": "Ruby",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-062",
+  "term": "Perl",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-063",
+  "term": "Haskell",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-064",
+  "term": "Lisp",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-065",
+  "term": "Assembly",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-066",
+  "term": "Fortran",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-067",
+  "term": "COBOL",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-068",
+  "term": "Scala",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-069",
+  "term": "Dart",
+  "category": "Programming Languages",
+  "difficulty": "medium",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-070",
+  "term": "Lua",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-071",
+  "term": "Borrow Checker",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-072",
+  "term": "Goroutine",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-073",
+  "term": "Channel in Go",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-074",
+  "term": "Coroutine",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-075",
+  "term": "Macro",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-076",
+  "term": "Metaprogramming",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-077",
+  "term": "Reflection",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-078",
+  "term": "Annotation Processor",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-079",
+  "term": "Foreign Function Interface",
+  "category": "Programming Languages",
+  "difficulty": "hard",
+  "language": "en",
+  "aliases": []
+ },
+ {
+  "id": "lang-080",
+  "term": "Hello World",
+  "category": "Programming Languages",
+  "difficulty": "easy",
+  "language": "en",
+  "aliases": []
+ }
+]
