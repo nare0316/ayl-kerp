@@ -1,4 +1,5 @@
 import { Button } from '../components/Button';
+import { InstallLink } from '../components/InstallLink';
 
 interface Props {
   canResume: boolean;
@@ -12,6 +13,9 @@ interface Props {
 export function Home({ canResume, soundEnabled, onNew, onRules, onResume, onToggleSound }: Props) {
   return (
     <main className="screen screen-center">
+      <div className="top-bar">
+        <InstallLink />
+      </div>
       <div className="logo" aria-hidden="true">{'</>'}</div>
       <h1 className="title">Այլ կերպ</h1>
       <p className="subtitle">Ծրագրավորողների բառախաղ.<br />բացատրիր տերմինը՝ առանց այն ասելու</p>

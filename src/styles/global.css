@@ -166,3 +166,24 @@ input { -webkit-user-select: text; user-select: text; }
 @media (min-width: 700px) {
   .screen { padding-top: 40px; }
 }
+
+/* ---------- Install link + modal ---------- */
+.top-bar { align-self: stretch; display: flex; justify-content: flex-end; margin-bottom: auto; }
+.install-link {
+  font: inherit; font-size: 14px; font-weight: 700;
+  color: var(--primary-dark); background: #fff;
+  border: 2px solid var(--primary); border-radius: 999px;
+  padding: 8px 14px; min-height: 44px; cursor: pointer;
+}
+.install-link:active { transform: scale(.97); }
+.modal-backdrop {
+  position: fixed; inset: 0; background: rgba(30, 27, 75, .6);
+  display: flex; align-items: flex-end; justify-content: center; padding: 16px; z-index: 10;
+}
+.modal {
+  background: #fff; border-radius: 22px; padding: 22px; width: 100%; max-width: 480px;
+  display: flex; flex-direction: column; gap: 12px;
+}
+.modal h2 { margin: 0; font-size: 22px; }
+.modal ol { margin: 0; padding-left: 22px; }
+.modal li { margin-bottom: 8px; }
